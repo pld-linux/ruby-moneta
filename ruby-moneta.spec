@@ -2,7 +2,7 @@
 Summary:	A unified interface to key/value stores
 Name:		ruby-%{pkgname}
 Version:	0.6.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Languages
 Source0:	http://gems.rubyforge.org/gems/%{pkgname}-%{version}.gem
